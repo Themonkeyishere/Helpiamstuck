@@ -54,7 +54,7 @@ jobs:
         name: node-app
         path: .
 
-  deploy:
+[![.github/workflows/azure-webapps-node.yml](https://github.com/Themonkeyishere/Helpiamstuck/actions/workflows/azure-webapps-node.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/Themonkeyishere/Helpiamstuck/actions/workflows/azure-webapps-node.yml)
     permissions:
       contents: none
     runs-on: ubuntu-latest
